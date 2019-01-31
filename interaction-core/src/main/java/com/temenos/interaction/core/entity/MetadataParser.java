@@ -74,6 +74,11 @@ public class MetadataParser extends DefaultHandler {
 	public Metadata parse(InputStream is) {
 		SAXParserFactory factory = SAXParserFactory.newInstance();
 		try {
+		    factory.setFeature("http://xml.org/sax/features/external-general-entities", false);
+            factory.setFeature("http://xml.org/sax/features/external-parameter-entities", false);
+            factory.setFeature("http://javax.xml.XMLConstants/feature/secure-processing", true);
+            factory.setValidating(true);
+            factory.setFeature("http://xml.org/sax/features/validation", true);
 			SAXParser saxParser = factory.newSAXParser();
 			saxParser.parse(is, this);
 		} catch (Exception e) {
