@@ -1,40 +1,8 @@
-/*******************************************************************************
- * Copyright 2005, 2009 CHISEL Group, University of Victoria, Victoria, BC,
- * Canada. All rights reserved. This program and the accompanying materials are
- * made available under the terms of the Eclipse Public License v1.0 which
- * accompanies this distribution, and is available at
- * http://www.eclipse.org/legal/epl-v10.html
- * 
- * Contributors: The Chisel Group, University of Victoria IBM CAS, IBM Toronto
- * Lab
- ******************************************************************************/
-/*******************************************************************************
- * Modified work Copyright 2013 Temenos Holdings N.V.
- * The example code for XText visualisation has been modified to visualise 
- * the IRIS RIMDSL.
- ******************************************************************************/
 package com.temenos.interaction.rimdsl.visualisation.providers;
 
-/*
- * #%L
- * com.temenos.interaction.rimdsl.RimDsl - Visualisation
- * %%
- * Copyright (C) 2012 - 2013 Temenos Holdings N.V.
- * %%
- * This program is free software: you can redistribute it and/or modify
- * it under the terms of the GNU Affero General Public License as published by
- * the Free Software Foundation, either version 3 of the License, or
- * (at your option) any later version.
- * 
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- * 
- * You should have received a copy of the GNU Affero General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
- * #L%
- */
+/*******************************************************************************
+ * Copyright © Temenos Headquarters SA 1993-2019.  All rights reserved.
+ *******************************************************************************/
 
 
 import java.util.ArrayList;

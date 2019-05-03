@@ -1,3 +1,6 @@
+/*******************************************************************************
+ * Copyright © Temenos Headquarters SA 1993-2019.  All rights reserved.
+ *******************************************************************************/
 package com.temenos.interaction.interaction_commands_odata;
 
 import java.io.ByteArrayInputStream;

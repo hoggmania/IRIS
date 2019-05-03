@@ -1,3 +1,6 @@
+/*******************************************************************************
+ * Copyright © Temenos Headquarters SA 1993-2019.  All rights reserved.
+ *******************************************************************************/
 package com.temenos.interaction.rimdsl;
 
 import static com.google.common.collect.Lists.newArrayList;
