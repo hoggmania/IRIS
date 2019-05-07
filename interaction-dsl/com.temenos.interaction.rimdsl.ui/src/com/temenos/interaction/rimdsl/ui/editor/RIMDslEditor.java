@@ -1,3 +1,6 @@
+/*******************************************************************************
+ * Copyright © Temenos Headquarters SA 1993-2019.  All rights reserved.
+ *******************************************************************************/
 package com.temenos.interaction.rimdsl.ui.editor;
 
 import org.eclipse.ui.IEditorInput;

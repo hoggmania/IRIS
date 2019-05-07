@@ -1,3 +1,6 @@
+/*******************************************************************************
+ * Copyright © Temenos Headquarters SA 1993-2019.  All rights reserved.
+ *******************************************************************************/
 package com.temenos.interaction.rimdsl.visualisation.providers;
 
 import com.temenos.interaction.rimdsl.rim.State;
